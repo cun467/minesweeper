@@ -29,7 +29,7 @@ from minesweeper.core import Board
 # 常量
 # ---------------------------------------------------------------------------
 
-CELL_SIZE = 60          # 格子像素大小
+CELL_SIZE = 55          # 格子像素大小
 BORDER = 2              # 凸起边框厚度
 FONT_SIZE = 24          # 数字字号
 HEADER_HEIGHT = 60      # 顶部信息栏高度
