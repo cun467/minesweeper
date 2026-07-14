@@ -1,0 +1,16 @@
+# PyInstaller
+*.exe
+*.spec
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
